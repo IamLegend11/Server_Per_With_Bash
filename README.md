@@ -23,7 +23,7 @@ head
 ## Usage:
 
 Clone the repository
-git clone https://github.com/your-username/server-stats.git
+git clone https://github.com/IamLegend11/Server_Per_With_Bash.git
 cd server-stats
 
 Make the script executable
